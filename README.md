@@ -3,7 +3,7 @@
   <img src="https://github.com/thiagovasconcelos1/CSharp/blob/2d59a084d9b745f17dbc61b6a8bbb5eccaa57a49/Asset/csharppp.jfif" alt="wpp" tittle="wpp">
 
 <!--xAboutx-->
-<h1 align="leftr">Práticas de programação em C#</h1>
+<h1 align="leftr">Práticas de programação em C#|| Pratice C#</h1> 
  
 
                                                        
