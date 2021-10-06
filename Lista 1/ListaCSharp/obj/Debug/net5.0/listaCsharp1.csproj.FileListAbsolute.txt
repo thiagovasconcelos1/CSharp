@@ -1,0 +1,48 @@
+C:\Users\Thiago\Lista 1\lista\listaCsharp1\bin\Debug\net5.0\listaCsharp1.exe
+C:\Users\Thiago\Lista 1\lista\listaCsharp1\bin\Debug\net5.0\listaCsharp1.deps.json
+C:\Users\Thiago\Lista 1\lista\listaCsharp1\bin\Debug\net5.0\listaCsharp1.runtimeconfig.json
+C:\Users\Thiago\Lista 1\lista\listaCsharp1\bin\Debug\net5.0\listaCsharp1.runtimeconfig.dev.json
+C:\Users\Thiago\Lista 1\lista\listaCsharp1\bin\Debug\net5.0\listaCsharp1.dll
+C:\Users\Thiago\Lista 1\lista\listaCsharp1\bin\Debug\net5.0\ref\listaCsharp1.dll
+C:\Users\Thiago\Lista 1\lista\listaCsharp1\bin\Debug\net5.0\listaCsharp1.pdb
+C:\Users\Thiago\Lista 1\lista\listaCsharp1\obj\Debug\net5.0\listaCsharp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Lista 1\lista\listaCsharp1\obj\Debug\net5.0\listaCsharp1.AssemblyInfoInputs.cache
+C:\Users\Thiago\Lista 1\lista\listaCsharp1\obj\Debug\net5.0\listaCsharp1.AssemblyInfo.cs
+C:\Users\Thiago\Lista 1\lista\listaCsharp1\obj\Debug\net5.0\listaCsharp1.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Lista 1\lista\listaCsharp1\obj\Debug\net5.0\listaCsharp1.dll
+C:\Users\Thiago\Lista 1\lista\listaCsharp1\obj\Debug\net5.0\ref\listaCsharp1.dll
+C:\Users\Thiago\Lista 1\lista\listaCsharp1\obj\Debug\net5.0\listaCsharp1.pdb
+C:\Users\Thiago\Lista 1\lista\listaCsharp1\obj\Debug\net5.0\listaCsharp1.genruntimeconfig.cache
+C:\Users\Thiago\Lista 1\lista\listaCsharp1\obj\Debug\net5.0\listaCsharp1.csprojAssemblyReference.cache
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\test\ListaCSharp\listaCsharp1\bin\Debug\net5.0\listaCsharp1.exe
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\test\ListaCSharp\listaCsharp1\bin\Debug\net5.0\listaCsharp1.deps.json
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\test\ListaCSharp\listaCsharp1\bin\Debug\net5.0\listaCsharp1.runtimeconfig.json
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\test\ListaCSharp\listaCsharp1\bin\Debug\net5.0\listaCsharp1.runtimeconfig.dev.json
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\test\ListaCSharp\listaCsharp1\bin\Debug\net5.0\listaCsharp1.dll
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\test\ListaCSharp\listaCsharp1\bin\Debug\net5.0\ref\listaCsharp1.dll
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\test\ListaCSharp\listaCsharp1\bin\Debug\net5.0\listaCsharp1.pdb
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\test\ListaCSharp\listaCsharp1\obj\Debug\net5.0\listaCsharp1.csprojAssemblyReference.cache
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\test\ListaCSharp\listaCsharp1\obj\Debug\net5.0\listaCsharp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\test\ListaCSharp\listaCsharp1\obj\Debug\net5.0\listaCsharp1.AssemblyInfoInputs.cache
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\test\ListaCSharp\listaCsharp1\obj\Debug\net5.0\listaCsharp1.AssemblyInfo.cs
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\test\ListaCSharp\listaCsharp1\obj\Debug\net5.0\listaCsharp1.csproj.CoreCompileInputs.cache
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\test\ListaCSharp\listaCsharp1\obj\Debug\net5.0\listaCsharp1.dll
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\test\ListaCSharp\listaCsharp1\obj\Debug\net5.0\ref\listaCsharp1.dll
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\test\ListaCSharp\listaCsharp1\obj\Debug\net5.0\listaCsharp1.pdb
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\test\ListaCSharp\listaCsharp1\obj\Debug\net5.0\listaCsharp1.genruntimeconfig.cache
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\ListaV2\ListaCSharp\listaCsharp1\bin\Debug\net5.0\listaCsharp1.exe
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\ListaV2\ListaCSharp\listaCsharp1\bin\Debug\net5.0\listaCsharp1.deps.json
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\ListaV2\ListaCSharp\listaCsharp1\bin\Debug\net5.0\listaCsharp1.runtimeconfig.json
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\ListaV2\ListaCSharp\listaCsharp1\bin\Debug\net5.0\listaCsharp1.runtimeconfig.dev.json
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\ListaV2\ListaCSharp\listaCsharp1\bin\Debug\net5.0\listaCsharp1.dll
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\ListaV2\ListaCSharp\listaCsharp1\bin\Debug\net5.0\ref\listaCsharp1.dll
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\ListaV2\ListaCSharp\listaCsharp1\bin\Debug\net5.0\listaCsharp1.pdb
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\ListaV2\ListaCSharp\listaCsharp1\obj\Debug\net5.0\listaCsharp1.csprojAssemblyReference.cache
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\ListaV2\ListaCSharp\listaCsharp1\obj\Debug\net5.0\listaCsharp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\ListaV2\ListaCSharp\listaCsharp1\obj\Debug\net5.0\listaCsharp1.AssemblyInfoInputs.cache
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\ListaV2\ListaCSharp\listaCsharp1\obj\Debug\net5.0\listaCsharp1.AssemblyInfo.cs
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\ListaV2\ListaCSharp\listaCsharp1\obj\Debug\net5.0\listaCsharp1.csproj.CoreCompileInputs.cache
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\ListaV2\ListaCSharp\listaCsharp1\obj\Debug\net5.0\listaCsharp1.dll
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\ListaV2\ListaCSharp\listaCsharp1\obj\Debug\net5.0\ref\listaCsharp1.dll
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\ListaV2\ListaCSharp\listaCsharp1\obj\Debug\net5.0\listaCsharp1.pdb
+C:\Users\Thiltado\Desktop\C stuff\lista exercicios c#\ListaV2\ListaCSharp\listaCsharp1\obj\Debug\net5.0\listaCsharp1.genruntimeconfig.cache
