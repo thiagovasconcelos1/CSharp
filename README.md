@@ -1,6 +1,6 @@
 <!---xbannerx-->
 <p align="center">
-  <img src="https://github.com/thiagovasconcelos1/CSharp/blob/08839ad297a55f0a2c828e4e9f72277f1bc48a4e/Asset/wpp.png" alt="wpp" tittle="wpp">
+  <img src="https://github.com/thiagovasconcelos1/CSharp/blob/54d494fddb864282651563dc7cc92493f9a3dad5/Asset/csharpwpp.jfif" alt="wpp" tittle="wpp">
 
 <!--xAboutx-->
 <h1 align="leftr">Práticas de programação em C#</h1>
