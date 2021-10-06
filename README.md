@@ -8,7 +8,6 @@
  <!--xiconsx-->
    <!-- xCx -->
 <p align="left">
-  <a href="" <a/> 
   <img src="https://github.com/thiagovasconcelos1/CSharp/blob/08839ad297a55f0a2c828e4e9f72277f1bc48a4e/Asset/c1.png" width="150">
                                                        
 </p>
