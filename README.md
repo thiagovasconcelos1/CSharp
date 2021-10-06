@@ -1,3 +1,7 @@
+<!---xbannerx-->
+<p align="center">
+  <img src="https://github.com/thiagovasconcelos1/CSharp/blob/08839ad297a55f0a2c828e4e9f72277f1bc48a4e/Asset/wpp.png" alt="wpp" tittle="wpp">
+
 <!--xAboutx-->
 <h1 align="center">Práticas de programação em C#</h1>
  
@@ -5,7 +9,7 @@
    <!-- xCx -->
 <p align="left">
   <a href="" <a/> 
-  <img src="assets/c1.png "c1" tittle="c1" height="134" width="150">
+  <img src="https://github.com/thiagovasconcelos1/CSharp/blob/08839ad297a55f0a2c828e4e9f72277f1bc48a4e/Asset/c1.png" width="150">
                                                        
 </p>
                                                                                                                                                                                                     
@@ -15,7 +19,7 @@
  <details>                                        
    <div>
     <h4>List #1 - 10 questões| List #1</h4>
-    <a href="https://github.com/viegox1/DigitalInovationOne/tree/main/Csharp/Basic%20Math%20Challenges">Estrutura de repetição com todas as questões dentro dos cases | </a><br/>
+    <a href="https://github.com/thiagovasconcelos1/CSharp/tree/main/Lista%201/ListaCSharp">Selecione um item para executar a questão | select one to exe the item </a><br/>
   </div> 
   <summary><span>C#</span></summary>  
   <p></p>
